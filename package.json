@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^1.0.2",
     "dotenv": "^4.0.0",
+    "hash": "^0.2.0",
     "knex": "^0.12.6",
     "pg": "^6.1.2"
   }
